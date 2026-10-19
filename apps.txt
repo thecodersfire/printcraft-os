@@ -20,3 +20,20 @@ org.gnome.Logs
 org.gnome.baobab
 com.github.tchx84.Flatseal
 org.gnome.Papers
+
+# Fifteen additional preinstalled purpose-specific applications
+org.librecad.librecad
+org.qelectrotech.QElectroTech
+com.orama_interactive.Pixelorama
+org.synfig.SynfigStudio
+io.github.OpenToonz
+org.kde.digikam
+com.rawtherapee.RawTherapee
+org.gnome.Shotwell
+com.github.xournalpp.xournalpp
+org.jabref.jabref
+org.geogebra.GeoGebra
+org.musescore.MuseScore
+com.vscodium.codium
+org.gnome.Calendar
+org.videolan.VLC
