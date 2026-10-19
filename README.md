@@ -24,3 +24,9 @@ The `printcraft.svg` wallpaper is original. Printcraft OS is an independent Ubun
 
 See [FEATURES.md](FEATURES.md) for three local tools included for 3D printing.
 
+
+The installer also includes three purpose-specific applications: **VSCodium, GNOME Builder, Wireshark**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **GIMP, Inkscape, Krita**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **PrusaSlicer, GIMP, Inkscape**. See [FEATURES.md](FEATURES.md).
